@@ -31,7 +31,8 @@
 | 第一章 | 从互联网到网络空间    |       |
 | 第二章 | 网络空间安全中的理论工具 |       |
 
-<font color="red">说明：</font> 
-<span style="color: #00FF00;">绿色文字</span>为了让读者不过多陷入技术细节，可以从宏观角度更加理解网络空间安全的概况，我们对课程配套PPT进行了简化。
+<font color="red"> 说明：</font> 
+<span style="color: #00FF00;">绿色文字</span> 为了让读者不过多陷入技术细节，可以从宏观角度更加理解网络空间安全的概况，我们对课程配套PPT进行了简化。
 如果有授课老师希望获得完整版本的ppt，请和以下邮箱联系: zhu-liang@mail.tsinghua.edu.cn
+<font color="red"> 说明：</font> 
 
