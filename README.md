@@ -5,7 +5,7 @@
 
 ## 二、课程配套教材及购买链接
 
-本课程的配套教材为《**网络空间安全原理与实践（第二版）**》，徐恪，李琦，沈蒙，朱敏 编著，清华大学出版社，2025.5.
+本课程的配套教材为《**网络空间安全原理与实践（第二版）**》，徐恪，李琦，沈蒙，朱敏 编著，清华大学出版社.
 <center>
   <img src="https://github.com/Cybersecurity-THU/-/blob/main/assets/cover.png" width="600" alt="教材封面">
 </center>
