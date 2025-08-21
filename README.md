@@ -24,11 +24,6 @@
 
 本课程配套完整的教学PPT，包括内涵丰富、图文并茂的教学内容、教学进度安排、课程目标、考核方式等。通过基础理论学习、典型案例分析与实践环节训练，全面提升学生在知识、能力与素养方面的综合素质，实现“三位一体”的教育目标。
 
-<span style="color: #FF5733; font-weight: bold">橙色文字</span>
-<span style="color: blue">蓝色文字</span>
-<span style="color: green; background-color: #f0f0f0">带背景色的绿色文字</span>
-
-
 <caption>课程教学配套部分PPT</caption>
 
 | 序号  | 章节           | 配套PPT |
@@ -36,12 +31,5 @@
 | 第一章 | 从互联网到网络空间    |       |
 | 第二章 | 网络空间安全中的理论工具 |       |
 
-<font color="red"> 说明：</font> 
-<span style="color: #00FF00;">绿色文字</span> 为了让读者不过多陷入技术细节，可以从宏观角度更加理解网络空间安全的概况，我们对课程配套PPT进行了简化。
-如果有授课老师希望获得完整版本的ppt，请和以下邮箱联系: zhu-liang@mail.tsinghua.edu.cn
-<style>
-  .color-text {
-    color: #FF5733;
-  }
-</style>
-<span class="color-text">这是带有颜色的文本</span>
+***说明***：为了避免读者过多陷入技术细节，能够从宏观角度快速理解网络空间安全的概况，我们对课程配套PPT进行了精简。如果您是授课教师，并希望获得完整的教学配套PPT，请和以下邮箱联系: zhu-liang@mail.tsinghua.edu.cn
+
