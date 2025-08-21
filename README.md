@@ -116,5 +116,14 @@
 
   - ChatGLM2-6B（https://github.com/THUDM/ChatGLM3）
   - 大模型微调框架项目源代码（https://arxiv.org/abs/2307.15043）
-  
+
+## 六、关注我们
+
+如果您对我们的工作感兴趣，欢迎通过下方二维码关注我们的团队公众号。我们会不定期分享网络安全前沿资讯、最新研究成果、教学心得、课程更新通知以及本书相关的补充材料。
+
+ <div align="center">
+  <img src="https://github.com/Cybersecurity-THU/-/blob/main/assets/QRcode.png"  alt="团队公众号">
+</div>
+
+期待与您交流！
 
