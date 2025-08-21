@@ -20,7 +20,7 @@
 
 本书是清华大学本科核心课程“网络空间安全导论”的配套教材，面向计算机科学与技术和网络空间安全等相关专业的本科生，也可供广大相关专业的网络工程技术人员和科研人员参考。
 
-## 课程配套PPT
+## 三、课程配套PPT
 
 本课程配套完整的教学PPT，包括内涵丰富、图文并茂的教学内容、教学进度安排、课程目标、考核方式等。通过基础理论学习、典型案例分析与实践环节训练，全面提升学生在知识、能力与素养方面的综合素质，实现“三位一体”的教育目标。
 
@@ -32,4 +32,70 @@
 | 第二章 | 网络空间安全中的理论工具 |       |
 
 ***说明***：为了避免读者过多陷入技术细节，能够从宏观角度快速理解网络空间安全的概况，我们对课程配套PPT进行了精简。如果您是授课教师，并希望获得完整的教学配套PPT，请和以下邮箱联系: zhu-liang@mail.tsinghua.edu.cn
+
+##  四、课程实验介绍
+
+- 教学团队设立了18个代表性的网络空间安全实践案例，包括DNS缓存投毒的基础性实验、编码实现口令认证协议的复杂实验、以及人工智能后门攻击与防御的探索性实验。实验内容难度各异，层次清晰，覆盖全面，将理论与实践相结合，既能够培养学生的实际操作能力，还可以引导具备研究兴趣的同学在高难度实验中探索热点安全话题，达到根据学生个人能力和兴趣因材施教的效果。
+
+- 在这18个网络空间安全实践案例中，学生从基础的数字证书应用、散列函数碰撞起步，进阶至网络传输层的DNS缓存中毒攻击与BGP路由异常检测（实验设计源自USENIX Security杰出论文），最终抵达应用层的深度实践——通过流量模式分析实施网络指纹攻击、基于流量大模型构建恶意软件与僵尸网络的通用检测系统。
+
+- 十八个实验和难度详见下表：
+
+ <div align="center">
+  <img src="https://github.com/Cybersecurity-THU/-/blob/main/assets/experiment.png"  alt="课程实验">
+</div>
+
+- 十八个实验的简介请见实验ppt，具体内容请见实验手册
+
+## 五、课程实验工具或者代码的链接
+
+- **制造MD5算法的散列值碰撞**
+
+  - fastcoll_v1.0.0.5
+
+- **基于口令的安全身份验证协议**
+
+  - Bellovin-Merritt 协议原始文章（https://ieeexplore.ieee.org/document/213269）
+
+- **Spectre** **攻击验证**
+
+  - 原始文章（https://ieeexplore.ieee.org/abstract/document/8835233）
+
+- **基于栈溢出的模拟勒索实验**
+
+  - **CVE**（https://cve.mitre.org/）
+
+- **基于IPID的TCP侧信道漏洞**
+
+  - 原始文章（https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556515）
+  - 参考源代码（https://github.com/fuchuanpu/TCP-exploit）
+
+- **互联网路由异常检测**
+
+  - 原始文章（https://www.usenix.org/system/files/usenixsecurity24-chen-yihao.pdf）
+  - 参考源代码（https://github.com/yhchen-tsinghua/routing-anomaly-detection）
+
+- **可视化分析流量交互图**
+
+  - 参考源代码（https://github.com/fuchuanpu/HyperVision）
+
+- **网站指纹攻击实现**
+
+  - 原始文章（https://dl.acm.org/doi/pdf/10.1145/3658644.3670272）
+  - 参考源代码（https://github.com/Xinhao-Deng/Website-Fingerprinting-Library）
+
+- **实现本地Web攻击**
+
+  - 参考源代码（web-security-exercise）
+
+- **后门攻击与防御的实现**
+
+  - BadNets 原始文章（https://arxiv.org/abs/1708.06733）和参考源代码（https://github.com/Kooscii/BadNets）
+  - Neural Cleanse 文章（https://ieeexplore.ieee.org/abstract/document/8835365）和源代码（https://github.com/bolunwang/backdoor）
+
+- **流量大模型的流量检测能力实现**
+
+  - ChatGLM2-6B（https://github.com/THUDM/ChatGLM3）
+  - 大模型微调框架项目源代码（https://arxiv.org/abs/2307.15043）
+  
 
