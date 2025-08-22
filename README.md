@@ -43,7 +43,7 @@
 | 第6章  | 系统硬件安全       |             |       |
 | 第7章  | 操作系统安全       |             |       |
 | 第8章  | TCP/IP协议栈安全  |             |       |
-| 第9章  | 互联网路由安全      |             | [ 教学PPT ]([https://www.baidu.com](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/blob/main/%E6%95%99%E5%AD%A6%E8%AF%BE%E4%BB%B6/%E7%AC%AC9%E7%AB%A0%20%E4%BA%92%E8%81%94%E7%BD%91%E8%B7%AF%E7%94%B1%E5%AE%89%E5%85%A8.pdf)  |
+| 第9章  | 互联网路由安全      |             | [ 教学PPT ](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/blob/main/%E6%95%99%E5%AD%A6%E8%AF%BE%E4%BB%B6/%E7%AC%AC9%E7%AB%A0%20%E4%BA%92%E8%81%94%E7%BD%91%E8%B7%AF%E7%94%B1%E5%AE%89%E5%85%A8.pdf)  |
 | 第10章 | DNS安全        |             |       |
 | 第11章 | 真实源地址验证      |             |       |
 | 第12章 | 流量识别与分析技术    |             |       |
