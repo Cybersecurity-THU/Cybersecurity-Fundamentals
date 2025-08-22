@@ -109,8 +109,10 @@
 
 - **后门攻击与防御的实现**
 
-  - BadNets 原始文章（https://arxiv.org/abs/1708.06733）和参考源代码（https://github.com/Kooscii/BadNets）
-  - Neural Cleanse 文章（https://ieeexplore.ieee.org/abstract/document/8835365）和源代码（https://github.com/bolunwang/backdoor）
+  - BadNets 原始文章（https://arxiv.org/abs/1708.06733）
+  - BadNets 参考源代码（https://github.com/Kooscii/BadNets）
+  - Neural Cleanse 原始文章（https://ieeexplore.ieee.org/abstract/document/8835365）
+  - Neural Cleanse 源代码（https://github.com/bolunwang/backdoor）
 
 - **流量大模型的流量检测能力实现**
 
