@@ -72,7 +72,7 @@
 
 - **制造MD5算法的散列值碰撞**
 
-  - fastcoll_v1.0.0.5
+  - [fastcoll_v1.0.0.5](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/raw/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/fastcoll_v1.0.0.5.zip)
 
 - **基于口令的安全身份验证协议**
 
@@ -107,7 +107,7 @@
 
 - **实现本地Web攻击**
 
-  - 参考源代码（web-security-exercise）
+  - 参考源代码（[web-security-exercise](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/raw/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/web-security-exercise.zip)）
 
 - **后门攻击与防御的实现**
 
