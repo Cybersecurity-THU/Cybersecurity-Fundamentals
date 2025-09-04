@@ -66,7 +66,7 @@
   <img src="https://github.com/Cybersecurity-THU/-/blob/main/assets/experiment.png"  alt="课程实验">
 </div>
 
-- 十八个实验的简介请见[课程实验ppt](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/blob/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AE%9E%E9%AA%8C.pdf)，具体内容请见[实验手册](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/blob/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%89%8B%E5%86%8C.pdf)
+- 十八个实验的简介请见[课程实验ppt](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/raw/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AE%9E%E9%AA%8C.pdf)，具体内容请见[实验手册](https://github.com/Cybersecurity-THU/Cybersecurity-Fundamentals/raw/main/%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%89%8B%E5%86%8C.pdf)
 
 ## 五、课程实验工具及参考资料
 
